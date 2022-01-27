@@ -15,7 +15,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.chanjungkim:VerticalSeekbar:Tag'
+	        implementation 'com.github.chanjungkim:VerticalSeekbar:1.0.0'
 	}
     
 ### Types
